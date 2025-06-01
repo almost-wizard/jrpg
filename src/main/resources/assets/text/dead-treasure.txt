@@ -1,0 +1,6 @@
+1.name = Player
+
+// will be searched for in assets/textures/
+1.image = avatars/adventurer.png
+
+1: Весьма вкусное пойло... Кажется, я стал чувствовать себя намного лучше!
