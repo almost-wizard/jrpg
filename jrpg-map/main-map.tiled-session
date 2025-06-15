@@ -1,0 +1,387 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "jrpg-map..tmx",
+    "expandedProjectPaths": [
+        "Dungeon",
+        "_templates",
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "#base-decors": {
+            "scaleInEditor": 1
+        },
+        "../jrpg-map..tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "expandedObjectLayers": [
+                2,
+                26
+            ],
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1680,
+                "y": 2024
+            }
+        },
+        "../jrpg-map..tmx#L-houses": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#ashlands_tileset": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#barrel": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#base-decors": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#base-terrain-tiles": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#broken-ship": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#decorations": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#floor": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#market": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#other": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#pirates-tileset": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#small-houses": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#special-houses": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#walls": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#water": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map..tmx#wdn-fence": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx": {
+            "scale": 0.2197265625,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 2154.951111111111,
+                "y": 1360.7822222222221
+            }
+        },
+        "../jrpg-map.tmx#L-houses": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#ashlands_tileset": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#barrel": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#base-decors": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#base-terrain-tiles": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#broken-ship": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#decorations": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#market": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#other": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#pirates-tileset": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#small-houses": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#special-houses": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#walls": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#water": {
+            "scaleInDock": 1
+        },
+        "../jrpg-map.tmx#wdn-fence": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 2216,
+                "y": 1840
+            }
+        },
+        "jrpg-map t.tmx#L-houses": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#ashlands_tileset": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#barrel": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#base-decors": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#base-terrain-tiles": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#broken-ship": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#decorations": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#market": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#other": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#pirates-tileset": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#small-houses": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#special-houses": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#walls": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#water": {
+            "scaleInDock": 1
+        },
+        "jrpg-map t.tmx#wdn-fence": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx": {
+            "expandedGroupLayers": [
+                21,
+                2
+            ],
+            "expandedObjectLayers": [
+                26,
+                27,
+                2
+            ],
+            "scale": 0.25,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1226,
+                "y": 936
+            }
+        },
+        "jrpg-map..tmx#L-houses": {
+            "scaleInDock": 0.25
+        },
+        "jrpg-map..tmx#Trees": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "jrpg-map..tmx#ashlands_tileset": {
+            "scaleInDock": 0.33
+        },
+        "jrpg-map..tmx#barrel": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#base-decors": {
+            "scaleInDock": 0.5
+        },
+        "jrpg-map..tmx#base-terrain-tiles": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#broken-ship": {
+            "scaleInDock": 1.5
+        },
+        "jrpg-map..tmx#cemetery-objects": {
+            "scaleInDock": 0.5
+        },
+        "jrpg-map..tmx#cemetery-tiles": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#decorations": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#dungeon": {
+            "scaleInDock": 0.5
+        },
+        "jrpg-map..tmx#floor": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#house-art": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#house-dwarfs": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#market": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#other": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#pirates-tileset": {
+            "scaleInDock": 1.5
+        },
+        "jrpg-map..tmx#small-houses": {
+            "scaleInDock": 0.75
+        },
+        "jrpg-map..tmx#special-houses": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#trees": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "jrpg-map..tmx#walls": {
+            "scaleInDock": 1
+        },
+        "jrpg-map..tmx#water": {
+            "scaleInDock": 1.5
+        },
+        "jrpg-map..tmx#wdn-fence": {
+            "scaleInDock": 1
+        },
+        "jrpg-map.tmx": {
+            "expandedGroupLayers": [
+                10,
+                6,
+                11,
+                8,
+                2,
+                9,
+                5,
+                24,
+                21
+            ],
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1684,
+                "y": 1356
+            }
+        },
+        "jrpg-map.tmx#L-houses": {
+            "scaleInDock": 0.75
+        },
+        "jrpg-map.tmx#ashlands_tileset": {
+            "scaleInDock": 0.75
+        },
+        "jrpg-map.tmx#barrel": {
+            "scaleInDock": 2
+        },
+        "jrpg-map.tmx#base-decors": {
+            "scaleInDock": 0.5
+        },
+        "jrpg-map.tmx#base-terrain-tiles": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "jrpg-map.tmx#bridge": {
+            "scaleInDock": 1
+        },
+        "jrpg-map.tmx#broken-ship": {
+            "scaleInDock": 1
+        },
+        "jrpg-map.tmx#decorations": {
+            "scaleInDock": 1.5
+        },
+        "jrpg-map.tmx#floor": {
+            "scaleInDock": 2
+        },
+        "jrpg-map.tmx#market": {
+            "scaleInDock": 2
+        },
+        "jrpg-map.tmx#other": {
+            "scaleInDock": 2
+        },
+        "jrpg-map.tmx#pirates-tileset": {
+            "scaleInDock": 3
+        },
+        "jrpg-map.tmx#small-houses": {
+            "scaleInDock": 0.5
+        },
+        "jrpg-map.tmx#special-houses": {
+            "scaleInDock": 0.5
+        },
+        "jrpg-map.tmx#walls": {
+            "scaleInDock": 1.5
+        },
+        "jrpg-map.tmx#water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "jrpg-map.tmx#wdn-fence": {
+            "scaleInDock": 1.5
+        }
+    },
+    "frame.defaultDuration": 250,
+    "last.exportedFilePath": "C:/Users/gsan4/Desktop",
+    "last.imagePath": "D:/Docs/rsreu/3.1/Курсач/jrpg-map/Special Sword Animation",
+    "last.objectTemplatePath": "C:/Users/gsan4/OneDrive/Рабочий стол/jrpg-map/_templates",
+    "map.height": 250,
+    "map.lastUsedExportFilter": "Файлы Tiled карт (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": "3",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 350,
+    "openFiles": [
+        "jrpg-map..tmx"
+    ],
+    "project": "main-map.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "jrpg-map..tmx",
+        "jrpg-map t.tmx",
+        "../jrpg-map.tmx",
+        "../jrpg-map..tmx",
+        "jrpg-map.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": false
+}

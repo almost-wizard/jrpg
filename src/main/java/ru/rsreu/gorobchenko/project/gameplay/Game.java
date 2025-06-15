@@ -189,7 +189,6 @@ public class Game {
                         }
                     }
                     case KeyCode.H -> helpTextPane.setVisible(!helpTextPane.isVisible());
-//                    case KeyCode.F4 -> EntityUtils.killAllEnemies();
                 }
 
                 if (!Config.DEBUG) {
@@ -200,7 +199,7 @@ public class Game {
                     case KeyCode.DIGIT8 -> PlayerManager.getInstance().getPlayerComponent().die();
                     case KeyCode.DIGIT9 -> MusicPlayer.getInstance().nextInPlaylist();
                     case KeyCode.DIGIT0 -> EntityUtils.removeFromWorld(EntityType.RM_COLLIDER_TO_ARONDIT);
-//                    case KeyCode.J -> EntityUtils.killAllEnemies();
+                    case KeyCode.F4 -> EntityUtils.killAllEnemies();
                     case KeyCode.DIGIT1 ->
                             EntitySpawner.spawnEnemy(EnemyType.BARGEST, new Point2D(900, 250), new Rectangle());
                     case KeyCode.DIGIT2 ->
